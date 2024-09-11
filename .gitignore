@@ -4,9 +4,10 @@
 .bashrc
 .cache/
 .dotnet/
-.git
+.git/
 .local/
 .ssh/
 .viminfo
 .vscode-server/
 .wget-hsts
+.gitignore
