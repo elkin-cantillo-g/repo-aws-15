@@ -1,8 +1,8 @@
 import pymysql
 
-host = "inst-db-15.crkkwims2ejn.us-east-2.rds.amazonaws.com"
-user = "jonier"
-passw = "12345678"
+host = "db-cymetric-15.chq2i2wisw35.us-east-2.rds.amazonaws.com"
+user = "admin"
+passw = "aOu7lFXw7rK6bRjCUoNN"
 db_name = "db_users"
 
 def connection_SQL():
@@ -42,5 +42,3 @@ def consult(id):
     except Exception as err:
         print("Error", err)
         return None
-        
-        
