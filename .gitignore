@@ -12,3 +12,5 @@
 .wget-hsts
 .gitignore
 keys.py
+routes/__pycache__/
+__pycache__/
