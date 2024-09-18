@@ -1,4 +1,4 @@
-h1, form {
+h1, div {
     text-align: center;
 }
 
@@ -14,7 +14,6 @@ button {
     padding: 7px;
 }
 
-form {
+div {
     font-size: 20px;
 }
-

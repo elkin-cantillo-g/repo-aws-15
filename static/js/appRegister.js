@@ -1,4 +1,5 @@
 
 function register_user() {
-    alert("Ingresaste al Register")    
+    alert("HOLAAA")
+    //window.location = '/register_user'
 }
